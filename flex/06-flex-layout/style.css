@@ -43,6 +43,7 @@ a {
 .header, .footer {
   display: flex;
   justify-content: space-between;
+  padding: 12px;
 }
 
 .footer {
@@ -52,7 +53,6 @@ a {
 .left-links, .right-links {
   display: flex;
   gap: 16px;
-  margin: 24px;
 }
 
 button {
